@@ -11,7 +11,7 @@ import SwiftUI
 struct MaskingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AnimatedStars()
         }
     }
 }
